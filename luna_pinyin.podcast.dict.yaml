@@ -1,0 +1,165 @@
+# Rime dictionary - Podcast
+# encoding: utf-8
+# 奇奇怪怪的播客词汇
+# no comment
+---
+name: luna_pinyin.podcast
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+# --- 播客名字 ---
+# 包含播客的名字，过去的名字
+# 不包含英文名字的播客，比如 Aspirin FM
+路书	lu shu
+机核	ji he
+八分	ba fen
+呱吉	gua ji
+一席	yi xi
+选·美	xuan mei
+一派·Podcast	yi pai
+壁下观	bi xia guan
+子非鱼	zi fei yu
+枕边风	zhen bian feng
+疯投圈	feng tou quan
+博物志	bo wu zhi
+晚风说	wan feng shuo
+味之道	wei zhi dao
+去现场	qu xian chang
+不时尚	bu shi shang
+硬影像	ying ying xiang
+百灵果 NEWS	bai ling guo
+小人物 A Nobody	xiao ren wu
+一天世界	yi tian shi jie
+日语日语	ri yu ri yu
+日谈物语	ri tan wu yu
+科技岛读	ke ji dao du
+科技乱炖	ke ji luan dun
+科技鲜声	ke ji xian sheng
+大内密谈	da nei mi tan
+反派影评	fan pai ying ping
+怪物尚志	guai wu	shang zhi
+未来授业	wei lai shou ye
+太医来了	tai yi lai le
+上海闲话	shang hai xian hua
+后浪剧场	hou lang ju chang
+声东击西	sheng dong ji xi
+不合时宜	bu he shi yi
+蒙台啥利	meng tai sha li
+哈利播客	ha li bo ke
+海马星球	hai ma xing qiu
+字谈字畅	zi tan zi chang
+彼岸薄荷	bi an bo he
+津津乐道	jin jin le dao
+迟早更新	chi zao geng xin
+忽左忽右	hu zuo hu you
+得意忘形	de yi wang xing
+人间指南	ren jian zhi nan
+流行通信	liu xing tong xin
+比特新声	bi te xin sheng
+不会说话	bu hui shuo hua
+捕蛇者说	bu she zhe shuo
+到海外去	dao hai wai qu
+无业游民	wu ye you min
+尼克逃课	ni ke tao ke
+神经漫游	shen jing man you
+内核恐慌	nwi he kong huang
+车间访谈	che jian fang tan
+主唱死了	zhu chang si le
+文化土豆	wen hua tu dou
+灭茶苦茶	mie cha ku cha
+提前怀旧	ti qian huai jiu
+时尚怪物	shi shang guai wu
+天才捕手 FM	tian cai bu shou
+孤品兆赫	gu pin zhao he
+文化有限 FM	wen hua you xian
+一时兴起 Whim	yi shi xing qi
+失踪日记 Corner	shi zong ri ji
+蓝蓝字语 AudioBlue	lan lan zi yu
+翻转电台 FilpRadio	fan zhuan dian tai
+小声喧哗 Loud Murmurs	xiao sheng xuan hua
+随机波动 StochasticVolatility	sui ji bo dong
+谐星聊天会	xie xing liao tian hui
+马扎儿广播	ma zha er guang bo
+声波飞行员	sheng bo fei xing yuan
+科学脱口秀	ke xue tuo kou xiu
+伐要去管他	fa yao qu guan ta
+四分之一危机	si fen zhi yi wei ji
+无时差研究所	wu shi cha yan jiu suo
+铥铥科幻电波	diu diu ke huan dian bo
+吞云吐雾的夜晚	tun yun tu wu de ye wan
+社会人科技评论	she hui ren ke ji ping lun
+马力欧陪你喝一杯	ma li ou pei ni he yi bei
+法律白话文运动：法客电台	fa ke dian tai
+Gooaye 股癌	gu ai
+Lights out 熄灯之后	xi deng zhi hou
+
+# --- 播客附属名词 ---
+吉考斯	ji kao si
+播客宇宙	bo ke yu zhou
+会员通讯	hui yuan tong xun
+迟早过年	chi zao guo nian
+复杂问题	fu za wen ti
+窄播时代	zhai bo shi dai
+喜剧联盒国	xi ju lian he guo
+后稀缺时代	hou xi que shi dai
+泛用型播客客户端	fan yong xing bo ke ke hu duan
+
+# --- 播客联合宇宙 ---
+# 播客厂牌的名字
+声动活泼	sheng dong huo po
+小黄鱼播客	xiao huang yu bo ke
+
+
+# --- 播客相关梗 ---
+# 包含口号，迷因等
+极度狭隘	ji du xia ai
+劳值塌陷	lao zhi ta xian
+节操满地聊科学	jie cao man di liao ke xue
+文川溪畔东瀛居	wen chuan xi pan dong ying ju
+黄浦江边清蒸鱼	huang pu jiang bian qing zheng yu
+于婉莹不如徐缓行	yu wan ying bu ru xu huan xing
+
+# --- 播客主播 ---
+# 有些主播的名字比较难打
+婉莹	wan ying
+吴涛	wu tao
+汉洋	han yang
+徐缓	xu huan
+页边	ye bian
+古村	gu cun
+瞿侠	qu xia
+罗登	luo deng
+罗攀	luo pan
+超人	chao ren
+任宁	ren ning
+贺愉	he yu
+枪抢	qiang qiang
+相征	xiang zheng
+重轻	zhong qing
+初洋	chu yang
+李淼	li miao
+蛇编	she bian
+陈语岚	chen yu lan
+田吉顺	tian ji shun
+张宇凌	zhang yu ling
+钱争予	qian zheng yu
+郝海龙	hao hai long
+寇爱哲	kou ai zhe
+吕太阳	lv tai yang
+梁文道	liang wen dao
+李厚辰	li hou cheng
+奶昔羊	nai xi yang
+王汉洋	wang han yang
+于婉莹	yu wan ying
+李如一	li ru yi
+益康糯米	yi kang nuo mi
+不鸟万如一	li ru yi
+
+# --- 播客客户端 ---
+皮艇	pi ting
+轻芒	qing mang za zhi
+小宇宙	xiao yu zhou
+荔枝播客	li zhi bo ke
+轻芒杂志	qing mang za zhi
